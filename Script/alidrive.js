@@ -18,7 +18,3 @@
 
 # ～ 阿里云盘（2022-10-16）@ddgksf2013
 ^https?:\/\/api\.aliyundrive\.com\/apps\/v\d\/users\/apps\/widgets$ url script-response-body https://raw.githubusercontent.com/Ansned/Cuttlefish-QX/master/Script/alidrive.js
-
-[mitm]
-
-hostname = api.aliyundrive.com
